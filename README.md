@@ -19,3 +19,5 @@ Este es un proyecto dedicado a mostrar el portafolio de servicios y proyectos de
 [Herramientas]
 
 [licencia]
+
+[Agradecimientos]
